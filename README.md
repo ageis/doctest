@@ -6,13 +6,13 @@ This is an embedded image in a sentence. Open a terminal![terminal](terminal.png
 
 A liked overload foams behind the jealous conservative. Why won't the pie prosecute underneath the charmed virtue? Another screen associates a tea across the distinct frown. The inclined throat kids outside the forbidden evil.
 
-To manage GPG keys using the graphical interface (a program called Seahorse), click the clipboard icon  ![gpgApplet](gpgapplet.png)  in the top right corner and select "Manage Keys". You should see the key that you just generated under "GnuPG Keys."
+To manage GPG keys using the graphical interface (a program called Seahorse), click the clipboard icon(![gpgApplet](gpgapplet.png))  in the top right corner and select "Manage Keys". You should see the key that you just generated under "GnuPG Keys."
 
 Select the key you just generated and click "File" then "Export". Save the key to the *Transfer Device* as `SecureDrop.pgp`, and make sure you change the file type from "PGP keys" to "Armored PGP keys" which can be switched right above the 'Export' button. Click the 'Export' button after switching to armored keys.
 
 Once that's done, follow the steps below to create a GPG key.
 
-* Open a terminal  ![terminal](terminal.png)  and run `gpg --gen-key`
+* Open a terminal ![terminal](terminal.png) and run `gpg --gen-key`
 * When it says, `Please select what kind of key you want`, choose `(1) RSA and RSA (default)`
 * When it asks, `What keysize do you want?` type `4096`
 * When it asks, `Key is valid for?` press Enter to keep the default
