@@ -12,7 +12,7 @@ Select the key you just generated and click "File" then "Export". Save the key t
 
 Once that's done, follow the steps below to create a GPG key.
 
-* Open a terminal ![terminal](terminal.png) and run `gpg --gen-key`
+* Open a terminal (![terminal](terminal.png)) and run `gpg --gen-key`
 * When it says, `Please select what kind of key you want`, choose `(1) RSA and RSA (default)`
 * When it asks, `What keysize do you want?` type `4096`
 * When it asks, `Key is valid for?` press Enter to keep the default
