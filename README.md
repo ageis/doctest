@@ -24,4 +24,4 @@ Once that's done, follow the steps below to create a GPG key.
 
 If the journalist does have a key, transfer their public key from wherever it is located to the *Secure Viewing Station*, using the *Transfer Device*. Open the file manager ![nautilus](nautilus.png) and double-click on the public key to import it. If the public key is not importing, rename the file to end in ".asc" and try again.
 
-After Tails is fully booted, make sure you're connected to the Internet  ![network](network-wired.png)  and that the Tor indicator onion  ![vidalia](tor-on.png)  is green, using the icons in the upper right corner.
+After Tails is fully booted, make sure you're connected to the Internet ![network](network-wired.png) and that the Tor indicator onion ![vidalia](tor-on.png) is green, using the icons in the upper right corner.
